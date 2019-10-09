@@ -10,7 +10,7 @@ Open irb:
 irb -r ./file_bit_counter.rb
 ```
 
-Run count_bits, providing the path to the file you want to examine:
+Run print_results, providing the path to the file you want to examine:
 
 ```
 FileBitCounter.new(file_path).print_results
